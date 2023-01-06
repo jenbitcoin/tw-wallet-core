@@ -1,0 +1,108 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+65
+Command line invocation:
+    /Applications/Xcode14.2.app/Contents/Developer/usr/bin/xcodebuild
+
+User defaults from command line:
+    IDEPackageSupportUseBuiltinSCM = YES
+
+Computing target dependency graph and provisioning inputs
+
+Create build description
+Build description signature: 4f017b9002f3b1380179910ee39c194f
+Build description path: /Users/jencvega/Documents/Projects/Fork/tw-wallet-core/CMakeFiles/3.23.1/CompilerIdC/./XCBuildData/4f017b9002f3b1380179910ee39c194f-desc.xcbuild
+
+warning: Building targets in manual order is deprecated - check "Parallelize build for command-line builds" in the project editor, or set DISABLE_MANUAL_TARGET_ORDER_BUILD_WARNING in any of the targets in the current build to suppress this warning
+error: An empty identity is not valid when signing a binary for the product type 'Command-line Tool'. (in target 'CompilerIdC' from project 'CompilerIdC')
+warning: Traditional headermap style is no longer supported; please migrate to using separate headermaps and set 'ALWAYS_SEARCH_USER_PATHS' to NO. (in target 'CompilerIdC' from project 'CompilerIdC')
+warning: Run script build phase 'Run Script' will be run during every build because it does not specify any outputs. To address this warning, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'CompilerIdC' from project 'CompilerIdC')
+** BUILD FAILED **
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+65
+Command line invocation:
+    /Applications/Xcode14.2.app/Contents/Developer/usr/bin/xcodebuild
+
+User defaults from command line:
+    IDEPackageSupportUseBuiltinSCM = YES
+
+Computing target dependency graph and provisioning inputs
+
+Create build description
+Build description signature: 3a1471afd14e826ccd6848cef01b009b
+Build description path: /Users/jencvega/Documents/Projects/Fork/tw-wallet-core/CMakeFiles/3.23.1/CompilerIdC/./XCBuildData/3a1471afd14e826ccd6848cef01b009b-desc.xcbuild
+
+warning: Building targets in manual order is deprecated - check "Parallelize build for command-line builds" in the project editor, or set DISABLE_MANUAL_TARGET_ORDER_BUILD_WARNING in any of the targets in the current build to suppress this warning
+error: An empty identity is not valid when signing a binary for the product type 'Command-line Tool'. (in target 'CompilerIdC' from project 'CompilerIdC')
+warning: Traditional headermap style is no longer supported; please migrate to using separate headermaps and set 'ALWAYS_SEARCH_USER_PATHS' to NO. (in target 'CompilerIdC' from project 'CompilerIdC')
+warning: Run script build phase 'Run Script' will be run during every build because it does not specify any outputs. To address this warning, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'CompilerIdC' from project 'CompilerIdC')
+** BUILD FAILED **
+
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+65
+Command line invocation:
+    /Applications/Xcode14.2.app/Contents/Developer/usr/bin/xcodebuild
+
+User defaults from command line:
+    IDEPackageSupportUseBuiltinSCM = YES
+
+Computing target dependency graph and provisioning inputs
+
+Create build description
+Build description signature: 144645a63221c1afb6a8d76ef7eade3d
+Build description path: /Users/jencvega/Documents/Projects/Fork/tw-wallet-core/CMakeFiles/3.23.1/CompilerIdCXX/./XCBuildData/144645a63221c1afb6a8d76ef7eade3d-desc.xcbuild
+
+warning: Building targets in manual order is deprecated - check "Parallelize build for command-line builds" in the project editor, or set DISABLE_MANUAL_TARGET_ORDER_BUILD_WARNING in any of the targets in the current build to suppress this warning
+error: An empty identity is not valid when signing a binary for the product type 'Command-line Tool'. (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+warning: Traditional headermap style is no longer supported; please migrate to using separate headermaps and set 'ALWAYS_SEARCH_USER_PATHS' to NO. (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+warning: Run script build phase 'Run Script' will be run during every build because it does not specify any outputs. To address this warning, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+** BUILD FAILED **
+
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+65
+Command line invocation:
+    /Applications/Xcode14.2.app/Contents/Developer/usr/bin/xcodebuild
+
+User defaults from command line:
+    IDEPackageSupportUseBuiltinSCM = YES
+
+Computing target dependency graph and provisioning inputs
+
+Create build description
+Build description signature: b25164a0dbd16377f549a8f6065e48c5
+Build description path: /Users/jencvega/Documents/Projects/Fork/tw-wallet-core/CMakeFiles/3.23.1/CompilerIdCXX/./XCBuildData/b25164a0dbd16377f549a8f6065e48c5-desc.xcbuild
+
+warning: Building targets in manual order is deprecated - check "Parallelize build for command-line builds" in the project editor, or set DISABLE_MANUAL_TARGET_ORDER_BUILD_WARNING in any of the targets in the current build to suppress this warning
+error: An empty identity is not valid when signing a binary for the product type 'Command-line Tool'. (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+warning: Traditional headermap style is no longer supported; please migrate to using separate headermaps and set 'ALWAYS_SEARCH_USER_PATHS' to NO. (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+warning: Run script build phase 'Run Script' will be run during every build because it does not specify any outputs. To address this warning, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+** BUILD FAILED **
+
+
+
